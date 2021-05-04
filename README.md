@@ -1,3 +1,7 @@
+## THIS REPO IS DEPRECATED. IT WAS MOVED [HERE](https://github.com/qase-tms/qase-python/tree/master/qase-xctest)
+
+---
+
 # Qase XCTest Utils
 
 ## How to install
